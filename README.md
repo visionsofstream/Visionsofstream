@@ -11,8 +11,6 @@
 
 <p align="center">
   <strong>Filmmaker Turned Cinematic Web Developer</strong> <br>
-  Based in Lagos, Nigeria
-</p>
 
 <p align="center">
   I build websites that feel like films — immersive animations, dramatic scroll experiences, and story-driven designs that stop the scroll and drive results.
