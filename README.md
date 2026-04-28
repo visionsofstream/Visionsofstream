@@ -16,15 +16,7 @@
 
 <p align="center">
   I create high-converting, visually stunning websites with smooth animations and excellent user experiences. 
-  Transitioning from filmmaking into web development, I bring strong storytelling and attention to detail to every project.
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visionsofstream&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  Former filmmaker bringing cinematic storytelling and strong attention to detail into web development.
 </p>
 
 ---
@@ -32,7 +24,8 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,wordpress,woocommerce,php,git,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,wordpress,woocommerce,php,git,figma,nodejs&perline=8" 
+       alt="Tech Stack" />
 </p>
 
 ---
@@ -42,26 +35,25 @@
 - Creating custom WordPress themes and WooCommerce stores
 - Implementing smooth animations and modern UI/UX
 - Converting Figma designs to clean, production-ready code
-- Strong foundation in storytelling and user-centered design
+- Strong storytelling and user-centered design approach
 
-### 🚀 Featured Projects
-- **Harmoniq Living** — Modern wellness brand website with clean design and smooth interactions  
-  [View Project →](https://github.com/visionsofstream/harmoniq-living-website)
+### 🚀 Featured Project
+**Harmoniq Living** — Modern wellness brand website with clean design and smooth interactions  
+[View Project →](https://github.com/visionsofstream/harmoniq-living-website)
 
 ---
 
 ### 📫 Open to Opportunities
 
-I'm currently **actively looking for Frontend Web Developer / WordPress Developer roles** (remote or Lagos).
+I'm **actively looking for Frontend Web Developer / WordPress Developer roles** (remote or Lagos-based).
 
 - **Portfolio**: [visionsofstream.carrd.co](https://visionsofstream.carrd.co)
-- **Email**: (visionsofstream@gmail.com)
+- **Email**: [visionsofstream@gmail.com]
 - **Instagram**: [@visionsofstream](https://instagram.com/visionsofstream)
+- **X**: [@visionsofstream](https://x.com/visionsofstream)
+
+**Available immediately** | Ready to contribute
 
 ---
 
-*Passionate about blending cinematic aesthetics with clean, functional code.*
-
----
-
-**Ready to contribute | Available immediately**
+*Blending cinematic aesthetics with clean, functional code from Lagos, Nigeria.*
