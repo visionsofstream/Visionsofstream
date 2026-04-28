@@ -57,4 +57,4 @@ Open to freelance cinematic web projects for creatives and brands.
 
 ---
 
-*Bringing film storytelling to the web from*
+*Bringing film storytelling to the web*
