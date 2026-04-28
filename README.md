@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://your-image-url-here" alt="Banner" width="100%" />
+</p>
 <div align="center">
   <h1>🎥 Visions of Stream</h1>
   <h2>Filmmaker Turned Cinematic Web Developer</h2>
