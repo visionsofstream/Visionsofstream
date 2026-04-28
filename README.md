@@ -55,8 +55,7 @@
 I'm currently **actively looking for Frontend Web Developer / WordPress Developer roles** (remote or Lagos).
 
 - **Portfolio**: [visionsofstream.carrd.co](https://visionsofstream.carrd.co)
-- **Email**: (add your email here)
-- **LinkedIn**: (add your LinkedIn if you have one)
+- **Email**: (visionsofstream@gmail.com)
 - **Instagram**: [@visionsofstream](https://instagram.com/visionsofstream)
 
 ---
