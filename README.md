@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url-here" alt="Banner" width="100%" />
+  <img src="https://6a4d9fd6-5a0d-4442-8fa9-168b5755d112.jpeg" alt="Banner" width="100%" />
 </p>
 <div align="center">
   <h1>🎥 Visions of Stream</h1>
