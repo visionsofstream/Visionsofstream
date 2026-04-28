@@ -1,46 +1,61 @@
 <p align="center">
-  <img src="https://github.com/visionsofstream/visionsofstream/blob/main/6a4d9fd6-5a0d-4442-8fa9-168b5755d112.jpeg?raw=true" 
-       alt="GitHub Banner" 
-       width="1200" 
-       style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/visionsofstream/visionsofstream/main/6a4d9fd6-5a0d-4442-8fa9-168b5755d112.jpeg" 
+       alt="Visions of Stream Banner" 
+       width="100%" 
+       style="border-radius: 12px;" />
 </p>
-<div align="center">
-  <h1>🎥 Visions of Stream</h1>
-  <h2>Filmmaker Turned Cinematic Web Developer</h2>
-  
-  <p>I build <strong>websites that feel like films</strong> — immersive animations, dramatic scroll experiences, and story-driven designs that stop the scroll and drive sales.</p>
-  
-  <p>Specializing in modern, beautiful websites for creatives, filmmakers, wellness brands, and ecommerce businesses. I work with <strong>WordPress + WooCommerce</strong> to create cinematic online stores that look premium and convert.</p>
-  
-  <p>Currently expanding my frontend skills while delivering high-quality WordPress & WooCommerce projects • Backend journey starting soon • Based in Lagos, Nigeria</p>
-</div>
+
+<br>
+
+<h1 align="center">Hi, I'm Visions of Stream 👋</h1>
+
+<p align="center">
+  <strong>Filmmaker Turned Cinematic Web Developer</strong> <br>
+  Based in Lagos, Nigeria
+</p>
+
+<p align="center">
+  I build websites that feel like films — immersive animations, dramatic scroll experiences, and story-driven designs that stop the scroll and drive results.
+</p>
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,wordpress,woocommerce,figma,git&perline=8" />
+</p>
 
 ---
 
 ### ✨ What I Build
-- Cinematic websites & portfolios with fluid animations
-- **WooCommerce online stores** that feel premium and cinematic
-- Smooth scroll experiences & immersive user interfaces
-- Custom WordPress themes & WooCommerce customizations
 
-### 🛠️ Current Tech Stack
-- **Frontend**: HTML5, CSS3, Tailwind CSS, JavaScript, React (in progress)
-- **CMS & Ecommerce**: WordPress + **WooCommerce**
-- **Focus**: Cinematic animations, responsive design, conversion-focused layouts
-- **Next**: Backend development (Node.js / Express)
+- **Cinematic Websites & Portfolios** with fluid animations and immersive storytelling  
+- **Premium WooCommerce Stores** that feel luxurious and convert  
+- **Smooth Scroll Experiences** and dramatic web interactions  
+- **Custom WordPress Themes** and advanced customizations  
 
-### 📌 Featured Project
-**[Harmoniq Living Website](https://github.com/visionsofstream/harmoniq-living-website)**  
-Modern wellness brand site with clean design and smooth navigation.  
-→ [Live Demo: harmoniqliving.org](https://harmoniqliving.org)
+### 🚀 Featured Project
 
-Actively building and improving **WooCommerce** capabilities for cinematic ecommerce stores.
-
-### Let's Connect
-- **X**: [@visionsofstream](https://x.com/visionsofstream)
-- Portfolio / Services → [visionsofstream.carrd.co]
-- Open to freelance projects: Cinematic websites, WooCommerce stores, and branding sites
+**Harmoniq Living** — Modern wellness brand website with clean design and smooth navigation.  
+[Live Demo → harmoniqliving.org](https://harmoniqliving.org)
 
 ---
 
-*Bringing film storytelling techniques into high-converting digital experiences — from beautiful portfolios to profitable WooCommerce stores.*
+### 🌱 Currently Learning
+- Backend Development (Node.js, Express)
+- Advanced React & Next.js for even more cinematic experiences
+
+---
+
+### 📫 Let's Connect
+
+- **Portfolio & Services**: [visionsofstream.carrd.co](https://visionsofstream.carrd.co)
+- **Instagram**: [@visionsofstream](https://instagram.com/visionsofstream)
+- **X (Twitter)**: [@visionsofstream](https://x.com/visionsofstream)
+
+I'm open to **freelance projects** — cinematic websites, WooCommerce stores, and branding sites for creatives, filmmakers, and wellness brands.
+
+---
+
+*Made with passion*
