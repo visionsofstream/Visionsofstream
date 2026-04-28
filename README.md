@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://6a4d9fd6-5a0d-4442-8fa9-168b5755d112.jpeg" alt="Banner" width="100%" />
+  <img src="https://github.com/visionsofstream/visionsofstream/blob/main/banner.png?raw=true" 
+       alt="GitHub Banner" 
+       width="1200" 
+       style="border-radius: 10px;" />
 </p>
 <div align="center">
   <h1>🎥 Visions of Stream</h1>
