@@ -11,11 +11,22 @@
 
 <p align="center">
   <strong>Filmmaker Turned Cinematic Web Developer</strong><br>
-  Lagos, Nigeria 🇳🇬
 </p>
 
 <p align="center">
   I build websites that feel like films — immersive animations, dramatic scroll experiences, and story-driven designs that stop the scroll and drive results.
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=visionsofstream&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visionsofstream&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -42,8 +53,8 @@
 - **Instagram**: [@visionsofstream](https://instagram.com/visionsofstream)
 - **X**: [@visionsofstream](https://x.com/visionsofstream)
 
-Open to freelance cinematic web projects.
+Open to freelance cinematic web projects for creatives and brands.
 
 ---
 
-*Bringing film storytelling to the web*
+*Bringing film storytelling to the web from*
