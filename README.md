@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/visionsofstream/visionsofstream/main/banner.JPG" 
+  <img src="https://raw.githubusercontent.com/visionsofstream/visionsofstream/main/6a4d9fd6-5a0d-4442-8fa9-168b5755d112.jpeg" 
        alt="Visions of Stream Banner" 
        width="100%" 
        style="border-radius: 12px;" />
@@ -7,10 +7,12 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Visions of Stream </h1>
+<h1 align="center">Hi, I'm Visions of Stream 👋</h1>
 
 <p align="center">
-  <strong>Filmmaker Turned Cinematic Web Developer</strong> <br>
+  <strong>Filmmaker Turned Cinematic Web Developer</strong><br>
+  Lagos, Nigeria 🇳🇬
+</p>
 
 <p align="center">
   I build websites that feel like films — immersive animations, dramatic scroll experiences, and story-driven designs that stop the scroll and drive results.
@@ -21,39 +23,27 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,wordpress,woocommerce,figma,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,wordpress,woocommerce,figma,git,php&perline=9" />
 </p>
 
 ---
 
 ### ✨ What I Build
-
-- **Cinematic Websites & Portfolios** with fluid animations and immersive storytelling  
-- **Premium WooCommerce Stores** that feel luxurious and convert  
-- **Smooth Scroll Experiences** and dramatic web interactions  
-- **Custom WordPress Themes** and advanced customizations  
-
-### 🚀 Featured Project
-
-**Harmoniq Living** — Modern wellness brand website with clean design and smooth navigation.  
-[Live Demo → harmoniqliving.org](https://harmoniqliving.org)
-
----
-
-### 🌱 Currently Learning
-- Backend Development (Node.js, Express)
-- Advanced React & Next.js for even more cinematic experiences
+- Cinematic websites & portfolios with fluid animations  
+- Premium WooCommerce stores that convert  
+- Dramatic scroll experiences  
+- Custom WordPress themes & solutions  
 
 ---
 
 ### 📫 Let's Connect
 
-- **Portfolio & Services**: [visionsofstream.carrd.co](https://visionsofstream.carrd.co)
+- **Portfolio**: [visionsofstream.carrd.co](https://visionsofstream.carrd.co)
 - **Instagram**: [@visionsofstream](https://instagram.com/visionsofstream)
-- **X (Twitter)**: [@visionsofstream](https://x.com/visionsofstream)
+- **X**: [@visionsofstream](https://x.com/visionsofstream)
 
-I'm open to **freelance projects** — cinematic websites, WooCommerce stores, and branding sites for creatives, filmmakers, and wellness brands.
+Open to freelance cinematic web projects.
 
 ---
 
-*Made with passion*
+*Bringing film storytelling to the web*
