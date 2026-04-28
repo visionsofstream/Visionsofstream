@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/visionsofstream/visionsofstream/main/6a4d9fd6-5a0d-4442-8fa9-168b5755d112.jpeg" 
+  <img src="https://raw.githubusercontent.com/visionsofstream/visionsofstream/main/Banner.JPG" 
        alt="Visions of Stream Banner" 
        width="100%" 
        style="border-radius: 12px;" />
