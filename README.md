@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/visionsofstream/visionsofstream/main/Banner.JPG" 
        alt="Visions of Stream Banner" 
        width="100%" 
-       style="border-radius: 12px;" />
+       style="border-radius: 15px;" />
 </p>
 
 <br>
@@ -11,6 +11,7 @@
 
 <p align="center">
   <strong>Filmmaker Turned Cinematic Web Developer</strong><br>
+  Lagos, Nigeria 🇳🇬
 </p>
 
 <p align="center">
@@ -26,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visionsofstream&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visionsofstream&theme=radical&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ---
@@ -34,7 +35,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,wordpress,woocommerce,figma,git,php&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,wordpress,woocommerce,figma,git,php&perline=8" />
 </p>
 
 ---
@@ -57,4 +58,4 @@ Open to freelance cinematic web projects for creatives and brands.
 
 ---
 
-*Bringing film storytelling to the web*
+*Bringing film storytelling to the web from Lagos, Nigeria 🇳🇬*
