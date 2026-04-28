@@ -7,7 +7,7 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Visions of Stream 👋</h1>
+<h1 align="center">Hi, I'm Visions of Stream </h1>
 
 <p align="center">
   <strong>Filmmaker Turned Cinematic Web Developer</strong> <br>
